@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\kdi\desktop\c++project\algorithm apoint\consoleapplication1\consoleapplication1\main.cpp(5): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  ConsoleApplication1.vcxproj -> C:\Users\KDI\Desktop\C++Project\Algorithm APoint\ConsoleApplication1\Debug\ConsoleApplication1.exe
