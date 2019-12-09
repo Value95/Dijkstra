@@ -8,7 +8,7 @@ void main()
 
 	shortPath.Draw();
 
-	//bool bFound = shortPath.findPath(0, 0, 4, 9);
-	//shortPath.Draw();
+	bool bFound = shortPath.findPath(0, 0, 4, 9);
+	shortPath.Draw();
 
 }
